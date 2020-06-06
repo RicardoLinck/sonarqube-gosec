@@ -1,0 +1,4 @@
+report.json
+cov.out
+sonarqube-gosec
+.scannerwork/
